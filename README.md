@@ -8,12 +8,6 @@ This project is created as a **free JavaScript mini project** for **learning, pr
 
 ---
 
-## 📸 Project Preview
-<p align="center">
-  <img src="images/task-tally-home.png" width="600">
-</p>
-
-> *(Add screenshots of your project UI inside the `images/` folder)*
 
 ---
 
