@@ -27,4 +27,4 @@ This project is created as a **free JavaScript mini project** for **learning, pr
 
 ---
 
-## 📂 Project Structure
+
