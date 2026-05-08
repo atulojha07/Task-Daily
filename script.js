@@ -6,7 +6,7 @@ const progressBar = document.querySelector('.progress-bar')
 const progressValue = document.querySelector('.progress-value')
 
 const allQuotes = [
-  'Raise the bar by completing your goals!',
+  'Raise the bar by completing your goals!', 
   'Well begun is half done!',
   'Just a step away, keep going!',
   'Whoa! You just completed all the goals, time for chill :D',
